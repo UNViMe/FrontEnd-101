@@ -26,7 +26,7 @@ Concocé a los programadores que integran el equipo:
  - Yohana [@yohanasalgado](https://github.com/yohanasalgado) 
  - Emiliano [@emidomingo](https://github.com/emidomingo)
  - Anto [@unicorniodecolores](https://github.com/unicorniodecolores)
- - Marina [@marinaluchinelli](https://github.com/marinaluchinelli)
+ - Marina [@marinalucchinelli](https://github.com/marinalucchinelli)
 
 ¿Cómo les fue con el proyecto?
 ------------------------------

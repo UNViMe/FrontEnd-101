@@ -27,3 +27,9 @@ Concocé a los programadores que integran el equipo:
  - Emiliano [@emidomingo](https://github.com/emidomingo)
  - Anto [@unicorniodecolores](https://github.com/unicorniodecolores)
  - Marina [@marinaluchinelli](https://github.com/marinaluchinelli)
+
+¿Cómo les fue con el proyecto?
+------------------------------
+Bueno, ¡aún no lo sabemos! :see_no_evil: Pero podes ver los avances que vamos teniendo en [este enlace](https://unvime.github.io/FrontEnd-101/), que se actualiza directamente desde este repo cada vez que damos un paso.
+
+No te vayas muy lejos, muy pronto habrá novedades.

@@ -12,6 +12,30 @@ Estamos en octubre de 2017, y la web es dinámica... Hemos tomado unas capturas 
 
 **¿Qué hay debajo?** :point_right: Mirá la imagen completa [acá](https://raw.githubusercontent.com/UNViMe/FrontEnd-101/master/Spotify20171018/SpotifyPC-100.jpg).
 
+¿Cómo lo haremos?
+-------------
+Tenemos una lista de conceptos que aprenderemos y aplicaremos durante el curso :page_with_curl:.
+
+:black_square_button: Introducción a Visual Studio Code (+ alguns plugins que nos facilitarán el trabajo).
+
+:black_square_button: Git & Github (para poder actualizar este repositorio).
+
+:black_square_button: Responsive web design (nuestro proyecto será apto para todas las pantallas y todos los dispositivos).
+
+:black_square_button: Estructura de un sitio web. Componentes. (necesitamos mantener todo en orden).
+
+:black_square_button: Alterando el DOM con jQuery (back to the roots!).
+
+:black_square_button: Conceptos avanzados de CSS3 (some sugar!).
+
+:black_square_button: Frameworks FrontEnd (alguien dijo Kendo UI?).
+
+:black_square_button: Conceptos de AJAX, JSON y Objetos (si alteramos el DOM necesitaremos traer datos :information_desk_person:).
+
+:black_square_button: Modals, Carousels, Dropdowns. Animaciones JS y CSS (la parte divertida).
+
+:black_square_button: Introducción a PWA (he visto el futuro!).
+
 Acerca del Team
 ---------------
 

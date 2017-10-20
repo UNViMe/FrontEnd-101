@@ -51,6 +51,7 @@ Concocé a los programadores que integran el equipo:
  - Emiliano [@emidomingo](https://github.com/emidomingo)
  - Anto [@unicorniodecolores](https://github.com/unicorniodecolores)
  - Marina [@marinalucchinelli](https://github.com/marinalucchinelli)
+  - Alan [@alanleontes](https://github.com/alanleontes)
 
 ¿Cómo les fue con el proyecto?
 ------------------------------

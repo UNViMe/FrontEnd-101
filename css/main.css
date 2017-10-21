@@ -1,0 +1,38 @@
+/*estilos generales*/
+html, body{ height: 100%}
+ul.unstyled{
+    margin: 0;
+}
+ul.unstyled > li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+#nav-header{
+  position: fixed;
+  background: rgba(0,0,0,0.6);
+  width: 100%;
+  height: 4rem;
+}
+
+#nav-header > header {
+    float: left;
+    line-height: 4rem;
+    width: 9rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#nav-header > nav {
+    float: right;
+    background: green;
+
+}
+#nav-header > header, #nav-header > nav {
+    height: 100%;
+}
+
+#section {
+  height: 500%;
+  background: red;
+}

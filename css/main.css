@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-nav{
-    background: red;
-}
-=======
 /*estilos generales*/
 html, body{ height: 100%}
 ul.unstyled{
@@ -41,4 +36,3 @@ ul.unstyled > li {
   height: 500%;
   background: red;
 }
->>>>>>> 806045ff2c75c9a44d42f2ccac4223f40dc0bcf2

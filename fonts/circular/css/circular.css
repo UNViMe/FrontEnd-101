@@ -1,13 +1,13 @@
 @font-face {
-    font-family: Circular;
-    src: url(../fonts/circular-light.woff2?v=1.0) format('woff2'),url(../fonts/circular-light.woff?v=1.0) format('woff');
+    font-family: "Circular";
+    src: url("../fonts/circular-light.woff2?v=1.0") format('woff2'),url("../fonts/circular-light.woff?v=1.0") format('woff');
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
-    font-family: Circular;
-    src: url(../fonts/circular-book.woff2?v=1.0) format('woff2'),url(../fonts/circular-book.woff?v=1.0) format('woff');
+    font-family: "Circular";
+    src: url("../fonts/circular-book.woff2?v=1.0") format('woff2'),url("../fonts/circular-book.woff?v=1.0") format('woff');
     font-weight: 400;
     font-style: normal
 }

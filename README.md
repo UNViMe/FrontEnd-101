@@ -16,17 +16,17 @@ Estamos en octubre de 2017, y la web es dinámica... Hemos tomado unas capturas 
 -------------
 Tenemos una lista de conceptos que aprenderemos y aplicaremos durante el curso :page_with_curl:.
 
-:black_square_button: Introducción a Visual Studio Code (+ alguns plugins que nos facilitarán el trabajo).
+:white_check_mark: Introducción a Visual Studio Code (+ alguns plugins que nos facilitarán el trabajo).
 
-:black_square_button: Git & Github (para poder actualizar este repositorio).
+:white_check_mark: Git & Github (para poder actualizar este repositorio).
 
 :black_square_button: Responsive web design (nuestro proyecto será apto para todas las pantallas y todos los dispositivos).
 
-:black_square_button: Estructura de un sitio web. Componentes. (necesitamos mantener todo en orden).
+:white_check_mark: Estructura de un sitio web. Componentes. (necesitamos mantener todo en orden).
 
 :black_square_button: Alterando el DOM con jQuery (back to the roots!).
 
-:black_square_button: Conceptos avanzados de CSS3 (some sugar!).
+:white_check_mark: Conceptos avanzados de CSS3 (some sugar!).
 
 :black_square_button: Frameworks FrontEnd (alguien dijo Kendo UI?).
 
